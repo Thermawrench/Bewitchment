@@ -410,65 +410,65 @@ ritual.bewitchment.solar_glory=Ritualen av Solens Gloria
 ritual.bewitchment.high_moon=Ritualen av Högmånen
 ritual.bewitchment.sands_of_time=Ritualen av Tidens Sand
 ritual.bewitchment.deluge=Ritualen av Syndafloden
-ritual.bewitchment.teleport=Rite of the Open Way
-ritual.bewitchment.perception=Ritual of Perception
-ritual.bewitchment.hungry_flames=Ritual of the Hungry Flames
-ritual.bewitchment.frenzied_growth=Ritual of Frenzied Growth
-ritual.bewitchment.revealing=Ritual of Revealing
-ritual.bewitchment.call_of_the_wild=Call of the Wild
-ritual.bewitchment.lesser_hellmouth=Rite of Lesser Hellmouth
-ritual.bewitchment.hellmouth=Rite of Hellmouth
-ritual.bewitchment.greater_hellmouth=Rite of Greater Hellmouth
-ritual.bewitchment.conjure_witch=Ritual of Conjuration (Witch)
-ritual.bewitchment.conjure_wither=Ritual of Conjuration (Wither)
-ritual.bewitchment.conjure_demon=Ritual of Conjuration (Demon)
-ritual.bewitchment.conjure_imp=Ritual of Conjuration (Imp)
-ritual.bewitchment.draw_small=Ritual of the Lesser Marks
-ritual.bewitchment.draw_medium=Ritual of the Marks
-ritual.bewitchment.draw_large=Ritual of the Greater Marks
-ritual.bewitchment.crystal_ball=Ritual of Foresight
-ritual.bewitchment.tarot_table=Ritual of Construction
-ritual.bewitchment.tarot_cards=Ritual of Engraving
-ritual.bewitchment.grimoire_magia=Rite of Knowledge
-ritual.bewitchment.purifying_earth=Rite of Purification
-ritual.bewitchment.cypress_broom=Rite of the Rising Twigs
-ritual.bewitchment.elder_broom=Rite of the Rising Twigs
-ritual.bewitchment.juniper_broom=Rite of the Rising Twigs
-ritual.bewitchment.yew_broom=Rite of the Rising Twigs
-ritual.bewitchment.wednesday=Rite of Wednesday
-ritual.bewitchment.spiritual_rift=Rite of the Spiritual Rift
+ritual.bewitchment.teleport=Riten av den Öppna Vägen
+ritual.bewitchment.perception=Ritualen av Perception
+ritual.bewitchment.hungry_flames=Ritualen av de Hungriga Flammorna
+ritual.bewitchment.frenzied_growth=Ritualen av Förilskad Tillväxt
+ritual.bewitchment.revealing=Ritualen av Avslöjande
+ritual.bewitchment.call_of_the_wild=Kallet av det Vilda
+ritual.bewitchment.lesser_hellmouth=Riten av mindre Hellmouth
+ritual.bewitchment.hellmouth=Riten av Hellmouth
+ritual.bewitchment.greater_hellmouth=Riten av Större Hellmouth
+ritual.bewitchment.conjure_witch=Ritualen av Konjuration (Häxa)
+ritual.bewitchment.conjure_wither=Ritualen av Konjuration (Wither)
+ritual.bewitchment.conjure_demon=Ritualen av Konjuration (Demon)
+ritual.bewitchment.conjure_imp=Ritualen av Konjuration (Smådjävul)
+ritual.bewitchment.draw_small=Ritualen av Mindre Märken
+ritual.bewitchment.draw_medium=Ritualen av Märken
+ritual.bewitchment.draw_large=Ritualen av Större Märken
+ritual.bewitchment.crystal_ball=Ritualen av Framsynthet
+ritual.bewitchment.tarot_table=Ritualen av Konstruction
+ritual.bewitchment.tarot_cards=Ritualen av Inristning
+ritual.bewitchment.grimoire_magia=Riten av Vetskap
+ritual.bewitchment.purifying_earth=Riten av Rening
+ritual.bewitchment.cypress_broom=Riten av Stigande Kvistar
+ritual.bewitchment.elder_broom=Riten av Stigande Kvistar
+ritual.bewitchment.juniper_broom=Riten av Stigande Kvistar
+ritual.bewitchment.yew_broom=Riten av Stigande Kvistar
+ritual.bewitchment.wednesday=Riten av Onsdag
+ritual.bewitchment.spiritual_rift=Riten av den Spirituella Revan
 
 #INFO
 itemGroup.bewitchment=Bewitchment
 
-fortune.has_fortune=This one's future has already been revealed: %s
-fortune.no_fortune=This world has no secrets awaiting
+fortune.has_fortune=Denna persons framtid har redan visats: %s
+fortune.no_fortune=Denna värld har inga hemligheter på väntan
 
 altar.power_info=%d/%d (x%d)
-altar.no_power=Your source of magic is not strong enough
+altar.no_power=Din källa av magi är icke stark nog
 
-tarot.no_cards=You must be holding Tarot Cards to use this
-tarot.no_player=You must bind a player to the cards
-tarot.player_offline=%s is offline
+tarot.no_cards=Du måste hålla tarotkort för att använda detta
+tarot.no_player=Du måste binda en spelare till korten
+tarot.player_offline=%s är offline
 
-juniper_key.invalid=You must hold a valid Juniper Key to use this block
+juniper_key.invalid=Du måste hålla en giltig Enbärsnyckel för att använda detta block
 
-advancements.bewitchment.crafted_altar.title=Witchworker
-advancements.bewitchment.crafted_altar.description=Craft a Stone Witches' Altar
+advancements.bewitchment.crafted_altar.title=Häxarbetare
+advancements.bewitchment.crafted_altar.description=Skapa ett Stenhäxaltar
 
-commands.fortune.get=%s's fortune: %s
-commands.fortune.set=%s's fortune was set to %s
-commands.fortune.remove=%s's fortune has been removed
-commands.fortune.execute=%s's fortune has been applied
-commands.fortune.nofortune=%s does not have a fortune
-commands.fortune.null=%s is not a fortune
+commands.fortune.get=%s's lycka: %s
+commands.fortune.set=%s's lycka var satt till %s
+commands.fortune.remove=%s's lycka har tagits bort
+commands.fortune.execute=%s's lycka har applicerats
+commands.fortune.nofortune=%s har ingen lycka
+commands.fortune.null=%s är inte en lycka
 
 jei.ritual=Ritual
-jei.ritual.startingPower=Starting Power: %d
-jei.ritual.runningPower=Running Power: %d
+jei.ritual.startingPower=Startkraft: %d
+jei.ritual.runningPower=Rännandekraft: %d
 
-jei.cauldron=Cauldron
-jei.brew=Brew
+jei.cauldron=Kittel
+jei.brew=Bryggd
 
 #DEMON NAMES AND TITLES
 entity.bewitchment.given_name.0=Bael
